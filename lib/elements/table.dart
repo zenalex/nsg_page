@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-
 class TablePage extends StatefulWidget {
   const TablePage({super.key, required this.title});
 
@@ -109,7 +108,7 @@ class _TablePageState extends State<TablePage> {
               children: [
                 CircleAvatar(
                   radius: 30,
-                  backgroundImage: AssetImage("muholovka.jpg"),
+                  backgroundImage: AssetImage("assets/muholovka.jpg"),
                 ),
                 Text(
                   "Utricularia gibba",
@@ -135,7 +134,7 @@ class _TablePageState extends State<TablePage> {
                   children: [
                     CircleAvatar(
                       radius: 30,
-                      backgroundImage: AssetImage("woman_photo.jpg"),
+                      backgroundImage: AssetImage("assets/woman_photo.jpg"),
                     ),
                     Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
@@ -187,7 +186,7 @@ class _TablePageState extends State<TablePage> {
               children: [
                 CircleAvatar(
                   radius: 30,
-                  backgroundImage: AssetImage("muholovka.jpg"),
+                  backgroundImage: AssetImage("assets/muholovka.jpg"),
                 ),
                 Text(
                   "Utricularia gibba",
@@ -213,7 +212,7 @@ class _TablePageState extends State<TablePage> {
                   children: [
                     CircleAvatar(
                       radius: 30,
-                      backgroundImage: AssetImage("woman_photo.jpg"),
+                      backgroundImage: AssetImage("assets/woman_photo.jpg"),
                     ),
                     Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
@@ -265,7 +264,7 @@ class _TablePageState extends State<TablePage> {
               children: [
                 CircleAvatar(
                   radius: 30,
-                  backgroundImage: AssetImage("muholovka.jpg"),
+                  backgroundImage: AssetImage("assets/muholovka.jpg"),
                 ),
                 Text(
                   "Utricularia gibba",
@@ -291,7 +290,7 @@ class _TablePageState extends State<TablePage> {
                   children: [
                     CircleAvatar(
                       radius: 30,
-                      backgroundImage: AssetImage("woman_photo.jpg"),
+                      backgroundImage: AssetImage("assets/woman_photo.jpg"),
                     ),
                     Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
@@ -343,7 +342,7 @@ class _TablePageState extends State<TablePage> {
               children: [
                 CircleAvatar(
                   radius: 30,
-                  backgroundImage: AssetImage("muholovka.jpg"),
+                  backgroundImage: AssetImage("assets/muholovka.jpg"),
                 ),
                 Text(
                   "Utricularia gibba",
@@ -369,7 +368,7 @@ class _TablePageState extends State<TablePage> {
                   children: [
                     CircleAvatar(
                       radius: 30,
-                      backgroundImage: AssetImage("woman_photo.jpg"),
+                      backgroundImage: AssetImage("assets/woman_photo.jpg"),
                     ),
                     Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
@@ -421,7 +420,7 @@ class _TablePageState extends State<TablePage> {
               children: [
                 CircleAvatar(
                   radius: 30,
-                  backgroundImage: AssetImage("muholovka.jpg"),
+                  backgroundImage: AssetImage("assets/muholovka.jpg"),
                 ),
                 Text(
                   "Utricularia gibba",
@@ -447,7 +446,7 @@ class _TablePageState extends State<TablePage> {
                   children: [
                     CircleAvatar(
                       radius: 30,
-                      backgroundImage: AssetImage("woman_photo.jpg"),
+                      backgroundImage: AssetImage("assets/woman_photo.jpg"),
                     ),
                     Column(
                       crossAxisAlignment: CrossAxisAlignment.start,

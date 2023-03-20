@@ -223,7 +223,7 @@ class _DrawerPageState extends State<DrawerPage> {
                       children: [
                         CircleAvatar(
                           radius: 30,
-                          backgroundImage: AssetImage("woman_photo.jpg"),
+                          backgroundImage: AssetImage("assets/woman_photo.jpg"),
                         ),
                         Column(
                           crossAxisAlignment: CrossAxisAlignment.start,

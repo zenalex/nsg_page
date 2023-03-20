@@ -276,7 +276,7 @@ class _MainPageState extends State<MainPage> {
                   children: [
                     CircleAvatar(
                       radius: 30,
-                      backgroundImage: AssetImage("iron_man.jpg"),
+                      backgroundImage: AssetImage("assets/iron_man.jpg"),
                     ),
                     Padding(
                       padding: const EdgeInsets.all(20.0),
